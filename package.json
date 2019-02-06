@@ -1,5 +1,5 @@
 {
-  "name": "osu-packet",
+  "name": "osu-packet-2",
   "version": "4.1.1",
   "description": "Allows you to read and write packets",
   "main": "osu-packet.js",
@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/U-siro/osu-packet-2.git"
   },
-  "author": "Dillon (Itsyuka)",
-  "license": "MIT",
+  "author": "Dillon (Itsyuka), LPOPYui",
+  "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/U-siro/osu-packet-2/issues"
   },
   "homepage": "https://github.com/U-siro/osu-packet-2#readme",
   "dependencies": {
-    "osu-buffer": "U-siro/osu-packet-2#master"
+    "osu-buffer-2": "U-siro/osu-buffer-2#master"
   }
 }
