@@ -1,5 +1,5 @@
 'use strict';
-const OsuBuffer = require('osu-buffer');
+const OsuBuffer = require('osu-buffer-2');
 
 class Writer {
     /**
