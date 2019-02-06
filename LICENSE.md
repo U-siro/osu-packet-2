@@ -1,17 +1,3 @@
-# osu-packet-2
-
-osu-packet was orignally created by Itsyuka but Some bugs exists and Itsyuka isn't merging it So I've created another repo: osu-packet-2.
-
-The osu! protocol library for nosue!lazer.
-
-This package allows you to read/write the network packets of the game osu! It has both the client and bancho's packets,
-more or less fully detailed and functional.
-
-This does automagically parse, but has absolutely no logic to it, just provides data.
-
-You can find the oddly documented functions in the /docs/ folder or at the documentation page
-
-## License
 General Public **Sigong** Permissive License
 
 Version 2 by siro
